@@ -198,8 +198,7 @@ The complete Power Planning process makes sure Every Standard Cell receives enou
 <img width="1920" height="1080" alt="Screenshot (245)" src="https://github.com/user-attachments/assets/dffc89d2-e488-49f5-b2a2-78afc9c57a82" />
 
 ### Fig.11 Placement of standard Cells 
-![Uploading Screenshot (247).png…]()
-
+<img width="1920" height="1080" alt="Screenshot (247)" src="https://github.com/user-attachments/assets/59834424-d598-4399-bfee-8c612cecfce6" />
 • You can toggle the Layer Visibility from the list on the Right. The List of Layers available are shown on the right under “Layer” tab with colour coding.
 
 ## Result
